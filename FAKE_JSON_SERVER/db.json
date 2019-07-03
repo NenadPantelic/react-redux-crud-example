@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Example 1",
+      "body": "Testing body"
+    },
+    {
+      "id": 2,
+      "title": "Example 2",
+      "body": "Testing body 2"
+    },
+    {
+      "id": 3,
+      "title": "Example 3",
+      "body": "Testing body 3"
+    },
+    {
+      "id": 4,
+      "title": "Example 4",
+      "body": "Testing body blah blah"
+    },
+    {
+      "id": 5,
+      "title": "Example 5",
+      "body": "Testing body blah blah 2"
+    }
+  ]
+}
